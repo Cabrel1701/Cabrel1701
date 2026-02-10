@@ -1,62 +1,71 @@
-👋 #Hello, I’m Cabrel Chetsong
+## 👋 Hello, I’m Magloire Dakeyo
 
-🎓 Applied Data Science Student (La Cité, Ottawa)
-📊 Interests: Data analysis, social and environmental issues
-🌍 Focus areas: Housing, public policy, open/public data
+🎓 **Applied Data Science Student** (La Cité, Ottawa)  
+📊 **Interests:** Data analysis, machine learning, applied analytics  
+🌍 **Focus areas:** Banking data, fraud detection, healthcare analytics  
 
-🧠 About Me
+---
 
-I am a second-year Applied Data Science student with a strong interest in social and environmental data analysis.
-I enjoy transforming complex datasets into clear, actionable insights that support evidence-based decision-making.
+## 🛠️ Technical Skills
 
-🛠️ Technical Skills
-Data Analysis
+### Data Analysis
+- Data cleaning and preparation  
+- Exploratory Data Analysis (EDA)  
+- Data visualization  
+- Machine Learning model development  
 
-Data cleaning and preparation
+### Programming & Query Languages
+- Python  
+- R  
+- SQL  
+- Java  
 
-Exploratory Data Analysis (EDA)
+### Databases
+- MySQL  
+- SQL Server  
 
-Data visualization
+### Tools & Platforms
+- Excel  
+- Power BI  
+- Google Colab  
+- AWS (EC2)  
 
-Programming & Query Languages
+### Methods
+- Linear regression  
+- Logistic regression  
+- Support Vector Machines (SVM)  
+- Random Forest  
+- K-Nearest Neighbors (KNN)  
+- K-Means clustering  
+- Data validation and quality control  
 
-Python, R, SQL
+---
 
-Databases
+## 📌 Featured Project
 
-MySQL, SQL Server
+### Banking Fraud Detection
 
-Tools & Platforms
+Development of a **fraud detection model** using transactional data, focusing on **imbalanced datasets**, data validation, and machine learning techniques to identify suspicious banking transactions.
 
-Excel, Power BI
+The project includes:
+- Data preprocessing and quality checks  
+- Handling class imbalance (sampling techniques)  
+- Model training and evaluation using appropriate metrics (precision, recall, F1-score)  
 
-AWS (EC2)
+👉 *View the project on GitHub*
 
-Methods
 
-Linear regression
+## 🌐 Portfolio
+👉 Cabrel1701/Cabrel1701
 
-Data validation and quality control
+---
 
-📌 Featured Project
-Housing Affordability — Ontario vs British Columbia
+## 🤝 Soft Skills
+- Clear communication (technical & non-technical audiences)  
+- Teamwork and collaboration  
+- Scientific rigor and time management  
 
-Comparative analysis of the housing-to-income ratio using 2021 Census microdata to assess housing accessibility trends.
+---
 
-👉 View the project on GitHub
-
-🌐 Portfolio
-
-👉 https://magloire2026.github.io/
-
-🤝 Soft Skills
-
-Clear communication (technical & non-technical audiences)
-
-Teamwork and collaboration
-
-Scientific rigor and time management
-
-📫 Contact
-
-📧 Email: mdakeyo@peacemakers.ch
+## 📫 Contact
+📧 **Email:** cabrelchetsong@gmail.com
