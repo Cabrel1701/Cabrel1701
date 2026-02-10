@@ -1,4 +1,4 @@
-👋 # Hello, I’m Cabrel Chetsong
+👋 #Hello, I’m Cabrel Chetsong
 
 🎓 Applied Data Science Student (La Cité, Ottawa)
 📊 Interests: Data analysis, social and environmental issues
