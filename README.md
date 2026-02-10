@@ -1,4 +1,4 @@
-## 👋 Hello, I’m Magloire Dakeyo
+## 👋 Hello, I’m Cabrel Chetsong
 
 🎓 **Applied Data Science Student** (La Cité, Ottawa)  
 📊 **Interests:** Data analysis, machine learning, applied analytics  
