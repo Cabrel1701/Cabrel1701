@@ -56,7 +56,7 @@ The project includes:
 
 
 ## 🌐 Portfolio
-👉 Cabrel1701/Cabrel1701
+👉 https://github.com/Cabrel1701/Cabrel1701
 
 ---
 
